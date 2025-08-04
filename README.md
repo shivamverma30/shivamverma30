@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shivam Verma
 
-<!--
-**shivamverma30/shivamverma30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (3rd Semester)  
+💻 Passionate about Java, Web Development & DSA  
+📚 Sharing daily Java lab work and projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Java, C, JavaScript, SQL
+- React.js, Node.js, Express.js, Tailwind CSS
+- MongoDB, MySQL, Git & GitHub
+
+---
+
+### 🚀 Currently Learning
+- Spring Boot • GitHub Actions • DSA (Java)
+
+---
+
+### 📞 Contact
+📱 9696734218  
+📧 shivamverma@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/shivamverma](https://www.linkedin.com/in/shivam-verma-aa2a47248))
+
+---
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamverma30&show_icons=true&theme=tokyonight)
